@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListView2</string>
+
+    <string-array name="items">
+        <item>Comfort Food</item>
+        <item>Egg Dishes</item>
+        <item>Salad</item>
+        <item>Local food</item>
+        <item>Burgers</item>
+        <item>Pie</item>
+        <item>Cold Coffee</item>
+        <item>Hot Coffee</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Noodles</item>
+        <item>Shakes</item>
+
+    </string-array>
+</resources>
